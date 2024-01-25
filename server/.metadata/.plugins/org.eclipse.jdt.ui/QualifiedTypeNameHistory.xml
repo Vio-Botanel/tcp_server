@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.springframework.integration.ip.tcp.connection.TcpNioClientConnectionFactory"/>
+    <fullyQualifiedTypeName name="org.springframework.integration.ip.tcp.connection.TcpNioServerConnectionFactory"/>
+    <fullyQualifiedTypeName name="org.springframework.messaging.MessageChannel"/>
+    <fullyQualifiedTypeName name="org.springframework.integration.channel.DirectChannel"/>
+    <fullyQualifiedTypeName name="org.springframework.integration.ip.tcp.TcpInboundGateway"/>
+    <fullyQualifiedTypeName name="org.springframework.integration.annotation.MessageEndpoint"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="com.example.demo.service.MessageService"/>
+    <fullyQualifiedTypeName name="com.example.demo.service.impl.MessageServiceImpl"/>
+    <fullyQualifiedTypeName name="org.springframework.integration.annotation.ServiceActivator"/>
+</qualifiedTypeNameHistroy>

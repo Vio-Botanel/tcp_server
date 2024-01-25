@@ -1,0 +1,16 @@
+package com.example.demo.endpoint;
+
+
+public class TcpServerEndpoint {
+	private MessageService messageService;
+
+    @Autowired
+    public TcpServerEndpoint(MessageService messageService) {
+        this.messageService = messageService;
+    }
+
+    @ServiceActivator(inputChannel = "inboundChannel")
+    public byte[] process(byte[] message) {
+        return messageService.processMessage(message);
+    }
+}
